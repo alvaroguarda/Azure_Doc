@@ -19,8 +19,8 @@ Inicialmente foi implementado apenas para análise de cartões de crédito
 ## 📒 Como utilizar
 1. Você deve configurar e instanciar os recursos no Microsoft Azure
 2. Clone o projeto
-3. No seu computador, edite a pasta com o Visual Studio Code
+3. No seu computador, edite a pasta com o Visual Studio Code (VSC)
    - Altere os dados dos recursos do Microsoft Azure no arquivo Config.py
-   - a
-4. Execute o aplicativo
+   - No terninal do VSC, instale o arquivo requirements.txt
+4. No terninal do VSC, execute o aplicativo
 5. Abra o navegador com o endereço local do streamlit
